@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+*.log
+*.sdf~
+*.png
+*.jpg
+.vscode/
+.idea/
+*.bak
